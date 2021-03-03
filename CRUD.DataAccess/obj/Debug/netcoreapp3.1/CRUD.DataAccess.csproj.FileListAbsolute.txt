@@ -1,0 +1,12 @@
+C:\Users\nikhi\source\repos\CRUD.DataAccess\bin\Debug\netcoreapp3.1\CRUD.DataAccess.deps.json
+C:\Users\nikhi\source\repos\CRUD.DataAccess\bin\Debug\netcoreapp3.1\CRUD.DataAccess.dll
+C:\Users\nikhi\source\repos\CRUD.DataAccess\bin\Debug\netcoreapp3.1\CRUD.DataAccess.pdb
+C:\Users\nikhi\source\repos\CRUD.DataAccess\bin\Debug\netcoreapp3.1\CRUD.Models.dll
+C:\Users\nikhi\source\repos\CRUD.DataAccess\bin\Debug\netcoreapp3.1\CRUD.Models.pdb
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.csproj.CopyComplete
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.dll
+C:\Users\nikhi\source\repos\CRUD.DataAccess\obj\Debug\netcoreapp3.1\CRUD.DataAccess.pdb

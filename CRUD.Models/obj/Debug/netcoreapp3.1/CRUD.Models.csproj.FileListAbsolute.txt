@@ -1,0 +1,9 @@
+C:\Users\nikhi\source\repos\CRUD.Models\bin\Debug\netcoreapp3.1\CRUD.Models.deps.json
+C:\Users\nikhi\source\repos\CRUD.Models\bin\Debug\netcoreapp3.1\CRUD.Models.dll
+C:\Users\nikhi\source\repos\CRUD.Models\bin\Debug\netcoreapp3.1\CRUD.Models.pdb
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.dll
+C:\Users\nikhi\source\repos\CRUD.Models\obj\Debug\netcoreapp3.1\CRUD.Models.pdb

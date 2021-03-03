@@ -1,0 +1,9 @@
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\netcoreapp3.1\CRUD.Utility.deps.json
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\netcoreapp3.1\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\netcoreapp3.1\CRUD.Utility.pdb
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\netcoreapp3.1\CRUD.Utility.pdb

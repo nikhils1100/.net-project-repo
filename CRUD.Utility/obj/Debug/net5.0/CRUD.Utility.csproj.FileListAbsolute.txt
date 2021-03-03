@@ -1,0 +1,12 @@
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\net5.0\CRUD.Utility.deps.json
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\net5.0\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\net5.0\ref\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\bin\Debug\net5.0\CRUD.Utility.pdb
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.csprojAssemblyReference.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\ref\CRUD.Utility.dll
+C:\Users\nikhi\source\repos\CRUD.Utility\obj\Debug\net5.0\CRUD.Utility.pdb
