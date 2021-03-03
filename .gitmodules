@@ -1,0 +1,7 @@
+[submodule "Submod"]
+	url = https://github.com/nikhils1100/dotnet-first-api.git
+[submodule "CRUD_NwDb"]
+	url = https://github.com/nikhils1100/dotnet-first-api.git
+[submodule "dotnet-first-api"]
+	path = dotnet-first-api
+	url = https://github.com/nikhils1100/dotnet-first-api.git
